@@ -11,3 +11,6 @@ A business manager of a consumer credit card portfolio is facing the problem of 
 - Total Rows: 10,127
 - Total Columns: 21
 - Challenges: Low percentage of members that have recently left the service is low, might be harder to model
+
+<br>
+<h3> Under Construction....</h3>
